@@ -1,0 +1,39 @@
+body{
+    width: 100%;
+}
+.Header img{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    vertical-align: top;
+    position: absolute;
+    top:17px;
+    right: 10px
+}
+.Header{
+    background-color: aquamarine;
+    width: 100%;
+    margin: auto;
+    fill: aquamarine;
+    
+}
+.Contact img{
+    width: 20px;
+    opacity: 10px;
+}
+.Contact{
+    background-color: aquamarine;
+}
+.col1{
+    width: 45%;
+}
+.col2{
+    margin-left: 50%;
+    /* margin-top: -110%; */
+    margin-top: -1050px;
+    width: 45%;
+}
+.col2 button{
+    background-color: rgb(86, 76, 76);
+    color: whitesmoke;
+}
